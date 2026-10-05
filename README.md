@@ -361,14 +361,14 @@ Before submitting changes:
 ## Support
 
 - Developer: [MR KRISHNA](https://discord.com/users/848781953284571137)
-- Invite the bot: [Invite Senorita](https://discord.com/oauth2/authorize?client_id=1556630806628278343&permissions=8&integration_type=0&scope=bot+applications.commands)
+- Invite the bot: [Invite Senorita](https://discord.com/oauth2/authorize?client_id=1556653845809987654&permissions=8&integration_type=0&scope=bot+applications.commands)
 - Support URL: configured through `SUPPORT_URL` in `.env` when available
 
 ---
 
 ## Credits
 
-This project is maintained by **MR KRISHNA** and is built for community server management using the Discord.js ecosystem.
+This project is maintained by **[MR KRISHNA](https://discord.com/users/848781953284571137)** and is built for community server management using the Discord.js ecosystem.
 
 ---
 
